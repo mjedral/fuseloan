@@ -7,7 +7,7 @@ const config: HardhatUserConfig = {
   networks: {
     fuse: {
       url: "https://rpc.fuse.io/",
-      accounts: [process.env.ADMIN_PRIV_KEY || ""],
+      accounts: [process.env.ADMIN_PRIV_KEY],
     },
   },
 };
