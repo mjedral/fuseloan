@@ -9,6 +9,6 @@ Welcome to Fuseloan, our innovative P2P lending platform for the Degen Hack hack
 
 ### Use case diagrams
 #### use case lender
-![use_case_lender](/use_case_lender.png )
+![use_case_lender](/diagrams/use_case_lender.png )
 #### use case taker
-![use_case_lender](/use_case_taker.png )
+![use_case_lender](/diagrams/use_case_taker.png )
