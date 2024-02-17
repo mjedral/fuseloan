@@ -1,5 +1,5 @@
 # ZADANIA
-1. ustawienie połączenia z fuse Network         - oliks
+1. ustawienie połączenia z fuse Network   - oliks
     * deploy kontraktu
     * wywolanie jakiej funkcji
 

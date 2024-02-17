@@ -6,3 +6,9 @@ Welcome to Fuseloan, our innovative P2P lending platform for the Degen Hack hack
 - Dynamic interest rates based on market demand
 - Secure and transparent transactions with smart contracts
 - Easy integration with popular wallets for seamless user experience
+
+# Use case diagrams
+1. use case lender
+![use_case_lender](/use_case_lender.png )
+2. use case taker
+![use_case_lender](/use_case_taker.png )
